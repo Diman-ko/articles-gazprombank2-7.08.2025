@@ -1,0 +1,42 @@
+.categories__description {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+    color: #1e222e;
+}
+
+.categories__title {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #696e82;
+}
+
+.categories__list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.categories__item {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.categories__link {
+    color: #1e222e;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.info-copyright {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    color: #696e82;
+}

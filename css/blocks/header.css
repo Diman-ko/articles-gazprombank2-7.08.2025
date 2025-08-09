@@ -3,6 +3,24 @@
     min-height: 12px;
 }
 
-.header-nav {
+.header__bottom {
+    display: flex;
+    justify-content: space-between;
+    padding: 22px 0;
+}
 
+.header-nav {
+    padding: 12px 0;
+
+}
+
+.header__logo {
+    cursor: pointer;
+    width: 170px;
+    height: 36px;
+}
+
+.header__buttons {
+    display: flex;
+    gap: 12px;
 }

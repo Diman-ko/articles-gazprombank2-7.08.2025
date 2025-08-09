@@ -1,0 +1,27 @@
+.btn {
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header__btn-client {
+    background: #2B3143;
+    border-radius: 8px;
+    padding: 12px 20px;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.header__btn-qrcode {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    background-color: #2B3143;
+    padding: 10px;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+}
