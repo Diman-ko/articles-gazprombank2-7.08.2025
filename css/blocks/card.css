@@ -6,7 +6,7 @@
     justify-content: center;
 }
 
-.answers__item--xl .card {
+.info__answers-item--xl .card {
     flex-direction: row;
     border-radius: 16px;
     gap: 32px;
@@ -16,13 +16,17 @@
 
 .card__img {
     border-radius: 16px;
+    width: 340px;
+    height: 190px;
 }
 
-.answers__item--xl .card__img {
+.info__answers-item--xl .card__img {
     border-radius: 16px 0 0 16px ;
+    width: 340px;
+    height: 240px;
 }
 
-.answers__item--xl .card__content {
+.info__answers-item--xl .card__content {
     padding: 20px 32px 20px 0;
 }
 

@@ -1,4 +1,4 @@
-.categories__description {
+.info__aside-description {
     margin: 0 0 24px;
     padding: 0;
     font-weight: 700;
@@ -7,7 +7,7 @@
     color: #1e222e;
 }
 
-.categories__title {
+.info__aside-title {
     font-weight: 400;
     font-size: 18px;
     line-height: 24px;
@@ -15,7 +15,7 @@
     margin: 0 0 48px;
 }
 
-.categories__list {
+.info__aside-list {
     list-style-type: none;
     display: flex;
     flex-direction: column;
@@ -24,20 +24,20 @@
     padding: 0;
 }
 
-.categories__item {
+.info__aside-item {
     display: flex;
     gap: 6px;
     align-items: center;
 }
 
-.categories__link {
+.info__aside-link {
     color: #1e222e;
     font-weight: 700;
     font-size: 18px;
     line-height: 24px;
 }
 
-.info-copyright {
+.info__copyright {
     font-weight: 400;
     font-size: 13px;
     line-height: 16px;
